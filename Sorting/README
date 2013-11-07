@@ -1,0 +1,25 @@
+Benjamin Johnson
+
+to compile:
+use the command make or compile the three files individually
+
+to run:
+Use make run
+It will generate a random list for all the number of elements then call insertion sort and merge sort.
+The program will write the average to an output file.
+
+The output file outputInsertion.txt and outputMerge.txt with the averages for all the inputs.
+
+A graph with graph showing the relationship between merge and insertion comparisons.
+
+The graphs are called graph.xslx and document2.docx they are both the same graph but i'm not sure how to open them in linux.
+
+The program takes about 20 minutes to completely run through all the inputs
+
+make run1 gives a short example of how the program runs
+
+to clean:
+make clean removes the .txt files
+make remove removes the rest
+
+

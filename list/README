@@ -1,0 +1,24 @@
+Ben Johnson
+
+Project 1: Double Linked List
+
+To Compile: make
+or g++ -o test1 test1.cc
+   g++ -o test2 test2.cc
+
+To Run: make run1 for test1
+	make run2 for test2
+
+or	./test1 for test1
+	./test2 for test2
+
+To remove executables: make clean
+
+or		       rm test1 test2
+
+
+list.h class header for list
+node.h class header for node
+list.cc implementation of the list
+
+The files I am submitting are my own work.

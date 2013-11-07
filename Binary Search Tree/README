@@ -1,0 +1,11 @@
+Ben Johnson
+Project: BinSTree
+Due Date: april 15
+
+
+To compile: You can use the command make and it will call g++ -o BinSTree BinSTree.cc
+
+To Run: Call make run and it will call ./BinSTree +-a/*bcde
+
+The spacing on the print trees are a little off but should be correct
+
